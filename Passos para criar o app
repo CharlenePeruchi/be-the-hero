@@ -25,17 +25,7 @@ Criar rota de listar todos os casos
 Criar rota de login
 Instalar o cors
 
-Frontend
-Criar pasta public com index (código base)
-Criar arquivo header
-Criar páginas (html e css)
-Configurar rotas
-Instalar react-icons
-
-Juntar Frontend com backend
-Inicializar o servidor no backend
-Instalar axios
-Criar pasta "services" e arquivo "api.js"
+Fontend
 
 
 
